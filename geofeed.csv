@@ -1,0 +1,4 @@
+# Self-published IP geolocation feed (RFC 8805) for Minute — AS402698
+# https://geofeed.minute.net/geofeed.csv
+# Fields: ip_prefix,country (ISO 3166-1 alpha-2),region (ISO 3166-2),city,postal_code
+
